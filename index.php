@@ -95,7 +95,7 @@
   <footer>
     <div class="page-footer">
       <p class="footer-copyright text-center">
-        © 2017. All rights reserved | Designed by rccg pacesetter's teens IT dept.
+        © 2019. All rights reserved | Designed by rccg Lp64 media dept.
       </p>
     </div>
   </footer>
